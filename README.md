@@ -18,7 +18,6 @@ https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis
 
 Clone this repository to your local machine:
 
-git clone https://github.com/your_username/social_media_sentiment_analysis.git
 git clone https://github.com/Ravina510/Sentiment-Analysis.git
 cd social_media_sentiment_analysis
 
